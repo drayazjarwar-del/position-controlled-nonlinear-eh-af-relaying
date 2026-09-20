@@ -1,0 +1,28 @@
+JSAC Reproducibility Package v1.0.0
+====================================
+
+Files:
+- CITATION.cff
+- Code_Figure_02.m
+- Code_Figure_03.m
+- Code_Figure_04.m
+- Code_Figure_05.m
+- Code_Figure_06.m
+- Code_Figure_07.m
+- Code_Figure_08.m
+- Code_Figure_09.m
+- Figure_01.pdf
+- Figure_02.pdf
+- Figure_03.pdf
+- Figure_04.pdf
+- Figure_05.pdf
+- Figure_06.pdf
+- Figure_07.pdf
+- Figure_08.pdf
+- Figure_09.pdf
+- MANIFEST.txt
+- Master_Numerical_Data.mat
+- README.md
+- Run_All_Figures.m
+- SHA256SUMS.txt
+- ZENODO_METADATA.txt

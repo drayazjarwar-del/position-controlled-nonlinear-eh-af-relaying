@@ -1,0 +1,18 @@
+ZENODO METADATA (copy/paste guide)
+
+Resource type: Software
+Title: Reproducibility Package for Position-Controlled Nonlinear Energy-Harvesting AF Relaying
+Version: 1.0.0
+Creators (in this order):
+1. Ayaz Hussain — James Watt School of Engineering, University of Glasgow
+2. Niamat Hussain — James Watt School of Engineering, University of Glasgow
+3. Muhammad Ali Imran — James Watt School of Engineering, University of Glasgow
+
+Suggested description:
+This archive contains the MATLAB code, shared numerical data, and figure outputs used to reproduce Figs. 2–9 of the manuscript “Position-Controlled Nonlinear Energy-Harvesting AF Relaying for 6G Networks: A Unified Framework for Movable and Pinching Antennas.” The package includes the exact deterministic hop-specific movable-antenna spatial realization, pinching-antenna numerical model, nonlinear energy-harvesting AF-relay calculations, Monte Carlo validation, optimization routines, and figure-generation scripts. Figure 1 is included as the system-model schematic and is not MATLAB-generated.
+
+Suggested keywords:
+movable antenna; pinching antenna; nonlinear energy harvesting; amplify-and-forward relay; power splitting; Log-alpha-mu fading; wireless-powered relay; reproducible research
+
+DOI: leave blank until Zenodo assigns it.
+License: choose deliberately in GitHub/Zenodo before public release; no license has been imposed by this packaging step.

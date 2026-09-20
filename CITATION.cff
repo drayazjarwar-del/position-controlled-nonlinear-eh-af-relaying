@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the archived Zenodo release."
+title: "Reproducibility Package for Position-Controlled Nonlinear Energy-Harvesting AF Relaying"
+type: software
+version: 1.0.0
+date-released: 2026-09-20
+authors:
+  - family-names: Hussain
+    given-names: Ayaz
+    affiliation: "James Watt School of Engineering, University of Glasgow"
+  - family-names: Hussain
+    given-names: Niamat
+    affiliation: "James Watt School of Engineering, University of Glasgow"
+  - family-names: Imran
+    given-names: Muhammad Ali
+    affiliation: "James Watt School of Engineering, University of Glasgow"
+keywords:
+  - movable antenna
+  - pinching antenna
+  - nonlinear energy harvesting
+  - amplify-and-forward relaying
+  - power splitting
+  - Log-alpha-mu fading
+  - wireless-powered relaying
